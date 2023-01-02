@@ -1,0 +1,65 @@
+body {
+    background-color: lightgrey;
+    padding: 100px;
+}
+
+.main {
+    border: -10px solid;
+    border-color: white;
+    height: 500px;
+}
+
+.abcde {
+    border: -10px solid;
+    border-color: white;
+}
+
+.ab {
+    border: -10px solid;
+    border-color: white;
+    height: 200px;
+}
+
+.cde {
+    border: -10px solid;
+    border-color: white;
+    height: 300px;
+}
+
+.cd {
+    height: 150px;
+    border: 10px solid;
+    border-color: white;
+}
+
+.e {
+    border: 10px solid;
+    border-color: white;
+}
+
+.a {
+    border: 10px solid;
+    border-color: white;
+}
+
+.b {
+    border: 10px solid;
+    border-color: white;
+}
+
+.f {
+    border: 10px solid;
+    border-color: white;
+}
+
+.g {
+    height: 380px;
+    border: 10px solid;
+    border-color: white;
+}
+
+.h {
+    height: 120px;
+    border: 10px solid;
+    border-color: white;
+}
